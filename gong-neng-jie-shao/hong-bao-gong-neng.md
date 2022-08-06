@@ -14,7 +14,7 @@
 
 查看目前抢红包开启的状态和情况，抢到金额等
 
-![](<../.gitbook/assets/image (2).png>)![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (2) (2).png>)![](<../.gitbook/assets/image (6) (2).png>)
 
 
 
@@ -28,13 +28,13 @@
 
 顾名思义，可以领那些没有被领完的红包
 
-![](../.gitbook/assets/Screenshot\_2022-08-06-13-46-36-57\_9d26c6446fd7bb8.jpg)
+![](<../.gitbook/assets/image (6).png>)
 
 ## 抢包通知
 
 抢到可以通知自己啦！担心被发现是秒抢的宝宝可以去方便的发送消息感谢了
 
-![](../.gitbook/assets/Screenshot\_2022-08-06-13-48-40-01\_9d26c6446fd7bb8.jpg)
+![](<../.gitbook/assets/image (3).png>)
 
 ## 发包系统
 
@@ -42,4 +42,4 @@
 
 <mark style="color:red;">**注意：红包阈值和支付密码请私聊自己设置**</mark>
 
-![](../.gitbook/assets/Screenshot\_2022-08-06-13-50-30-92\_9d26c6446fd7bb8.jpg)
+![](../.gitbook/assets/image.png)

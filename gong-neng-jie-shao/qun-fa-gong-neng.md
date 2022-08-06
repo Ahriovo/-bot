@@ -18,10 +18,10 @@
 
 定时群发就是自己定在某个时间段发送一条群发消息，<mark style="color:red;">**注意设置时间格式中的冒号“：”，需要用英文的冒号**</mark>
 
-![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (3) (2).png>)![](<../.gitbook/assets/image (14).png>)
 
 ## 循环群发
 
 可以循环一直群发内容，建议时间间隔设置不要太短
 
-![](../.gitbook/assets/image.png)![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (2).png>)![](<../.gitbook/assets/image (10).png>)
