@@ -70,7 +70,7 @@ _<mark style="color:red;">**登录协议默认为iPad登录，出现iPad登录�
 >
 > 点歌系统◇表情功能&#x20;
 
-介绍大坏蛋个人助手的具体功能，买前先了解
+### _<mark style="color:red;">**买前先了解，请点击左上角三条杠标志查看具体介绍**</mark>_
 
 {% hint style="info" %}
 <mark style="color:red;">**大坏蛋个人助手支持小号挂机，大号控制**</mark>
