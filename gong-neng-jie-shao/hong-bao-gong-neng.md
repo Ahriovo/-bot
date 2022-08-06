@@ -28,7 +28,7 @@
 
 顾名思义，可以领那些没有被领完的红包
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 ## 抢包通知
 
@@ -43,3 +43,4 @@
 <mark style="color:red;">**注意：红包阈值和支付密码请私聊自己设置**</mark>
 
 ![](<../.gitbook/assets/image (20).png>)
+
