@@ -6,7 +6,7 @@
 
 ## 功能预览
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 **代理可以五折提卡，可以自己建立售后自助群，我提供自助登录机**
 

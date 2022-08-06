@@ -31,16 +31,16 @@
 * [自身撤回](gong-neng-jie-shao/zi-shen-che-hui.md)
 * [代理系统](gong-neng-jie-shao/dai-li-xi-tong.md)
 * [自动续火](gong-neng-jie-shao/zi-dong-xu-huo.md)
+* [表情功能](gong-neng-jie-shao/biao-qing-gong-neng.md)
 * [等待添加](gong-neng-jie-shao/deng-dai-tian-jia.md)
 
-## Use Cases
+## 使用案例
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [对于同人车车头](shi-yong-an-li/dui-yu-tong-ren-che-che-tou.md)
+* [For Engineers](shi-yong-an-li/for-engineers/README.md)
+  * [GitHub Integration](shi-yong-an-li/for-engineers/github-integration.md)
+* [For Support](shi-yong-an-li/for-support/README.md)
+  * [Intercom Integration](shi-yong-an-li/for-support/intercom-integration.md)
 
 ## Extras
 
