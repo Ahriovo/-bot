@@ -9,6 +9,7 @@
 * [密码登录](deng-lu-zhi-nan/mi-ma-deng-lu.md)
 * [如何确定自己是否在线](deng-lu-zhi-nan/ru-he-que-ding-zi-ji-shi-fou-zai-xian.md)
 * [如何确定是否被屏蔽消息](deng-lu-zhi-nan/ru-he-que-ding-shi-fou-bei-ping-bi-xiao-xi.md)
+* [一直发登录上线怎么办](deng-lu-zhi-nan/yi-zhi-fa-deng-lu-shang-xian-zen-mo-ban.md)
 
 ## 功能介绍
 
@@ -28,6 +29,7 @@
 * [账号控制](gong-neng-jie-shao/zhang-hao-kong-zhi.md)
 * [问答系统](gong-neng-jie-shao/wen-da-xi-tong.md)
 * [自身撤回](gong-neng-jie-shao/zi-shen-che-hui.md)
+* [Page 1](gong-neng-jie-shao/page-1.md)
 
 ## Use Cases
 

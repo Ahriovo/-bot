@@ -18,7 +18,7 @@
 
 定时群发就是自己定在某个时间段发送一条群发消息，<mark style="color:red;">**注意设置时间格式中的冒号“：”，需要用英文的冒号**</mark>
 
-![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (14) (1).png>)
+![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (14).png>)
 
 ## 循环群发
 
