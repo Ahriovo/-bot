@@ -10,5 +10,4 @@
 
 开启后自动发送消息打招呼\~不需要自己频繁手动发送啦
 
-![](<../.gitbook/assets/image (1) (2).png>)
-
+![](<../.gitbook/assets/image (1).png>)

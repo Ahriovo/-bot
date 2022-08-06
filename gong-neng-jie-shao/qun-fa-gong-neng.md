@@ -12,7 +12,7 @@
 
 普通群发就是当前时间群发一次，加白群聊就是该群不进行群发，以免发到不能广告的群
 
-****![](<../.gitbook/assets/image (16).png>)****![](<../.gitbook/assets/image (11).png>)****
+****![](<../.gitbook/assets/image (16).png>)****![](<../.gitbook/assets/image (11) (2).png>)****
 
 ## **定时群发**
 
