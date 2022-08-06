@@ -4,6 +4,8 @@
 **由于抢红包操作为敏感操作，频繁使用不可避免的会导致风控，甚至冻结，请谨慎使用或尽量使用小号**
 {% endhint %}
 
+<mark style="color:red;">**抢红包功能是默认关闭的哦，手动打开才会开启**</mark>
+
 ## **功能开关**
 
 强大的自定义开关，想抢哪个抢哪个
@@ -14,7 +16,7 @@
 
 查看目前抢红包开启的状态和情况，抢到金额等
 
-![](<../.gitbook/assets/image (2) (2).png>)![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (2) (1).png>)![](<../.gitbook/assets/image (6).png>)
 
 
 
@@ -28,13 +30,13 @@
 
 顾名思义，可以领那些没有被领完的红包
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (1) (3).png>)
 
 ## 抢包通知
 
 抢到可以通知自己啦！担心被发现是秒抢的宝宝可以去方便的发送消息感谢了
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 ## 发包系统
 
@@ -42,4 +44,5 @@
 
 <mark style="color:red;">**注意：红包阈值和支付密码请私聊自己设置**</mark>
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (20).png>)
+

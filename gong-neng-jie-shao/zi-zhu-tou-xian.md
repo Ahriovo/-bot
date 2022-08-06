@@ -12,8 +12,10 @@
 
 **回收所有头衔需要时间，人越多时间越长，并非卡住，不要反复发送指令**
 
-<mark style="color:red;">****</mark>![](<../.gitbook/assets/image (12).png>)<mark style="color:red;">****</mark>![](<../.gitbook/assets/image (18).png>)<mark style="color:red;">****</mark>
+<mark style="color:red;">****</mark>![](<../.gitbook/assets/image (12) (1).png>)<mark style="color:red;">****</mark>![](<../.gitbook/assets/image (18).png>)<mark style="color:red;">****</mark>
 
 <mark style="color:red;">****</mark>
 
 ### **自助头衔付费头衔可以帮助同人车车头解放双手，开启头衔付费，谁参与aa一目了然，自动给头衔，再也不用频繁切屏给头衔到手疼啦**
+
+****

@@ -12,7 +12,7 @@
 
 普通群发就是当前时间群发一次，加白群聊就是该群不进行群发，以免发到不能广告的群
 
-****![](<../.gitbook/assets/image (16).png>)****![](<../.gitbook/assets/image (11) (2).png>)****
+****![](<../.gitbook/assets/image (16).png>)****![](<../.gitbook/assets/image (11).png>)****
 
 ## **定时群发**
 
@@ -24,4 +24,5 @@
 
 可以循环一直群发内容，建议时间间隔设置不要太短
 
-![](<../.gitbook/assets/image (4).png>)![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (4) (3).png>)![](<../.gitbook/assets/image (10).png>)
+

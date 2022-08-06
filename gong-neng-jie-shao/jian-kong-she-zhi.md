@@ -10,5 +10,5 @@
 
 ### <mark style="color:red;">**【不可用于违法违规如泄露他人隐私等用途，一旦发现永久封禁】**</mark>
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (23).png>)
 
