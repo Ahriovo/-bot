@@ -12,6 +12,7 @@
 ## 功能介绍
 
 * [红包功能](gong-neng-jie-shao/hong-bao-gong-neng.md)
+* [菜单设置](gong-neng-jie-shao/cai-dan-she-zhi.md)
 * [屏蔽功能](gong-neng-jie-shao/ping-bi-gong-neng.md)
 * [群发功能](gong-neng-jie-shao/qun-fa-gong-neng.md)
 * [自助头衔](gong-neng-jie-shao/zi-zhu-tou-xian.md)
@@ -23,6 +24,8 @@
 * [打卡功能](gong-neng-jie-shao/da-ka-gong-neng.md)
 * [群管功能](gong-neng-jie-shao/qun-guan-gong-neng.md)
 * [清理潜水](gong-neng-jie-shao/qing-li-qian-shui.md)
+* [账号控制](gong-neng-jie-shao/zhang-hao-kong-zhi.md)
+* [问答系统](gong-neng-jie-shao/wen-da-xi-tong.md)
 
 ## Use Cases
 
