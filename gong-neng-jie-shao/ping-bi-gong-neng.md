@@ -8,4 +8,4 @@
 
 就是一个[红包功能](hong-bao-gong-neng.md)和打卡功能的加白名单。防止打卡和抢红包到不允许的群
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (24).png>)

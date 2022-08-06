@@ -21,6 +21,8 @@
 * [监控设置](gong-neng-jie-shao/jian-kong-she-zhi.md)
 * [个人助手](gong-neng-jie-shao/ge-ren-zhu-shou.md)
 * [打卡功能](gong-neng-jie-shao/da-ka-gong-neng.md)
+* [群管功能](gong-neng-jie-shao/qun-guan-gong-neng.md)
+* [清理潜水](gong-neng-jie-shao/qing-li-qian-shui.md)
 
 ## Use Cases
 

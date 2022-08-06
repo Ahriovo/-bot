@@ -30,7 +30,7 @@
 
 ### 请确保完全按照步骤**操作**，登录指南上存在解决方案的一切问题，客服不予回复
 
-### <mark style="color:red;">**登录/购买 即代表您已经完全阅读和接受本文条款和明白使用方法，不支持以任何存在于本文的问题退款**</mark>
+### <mark style="color:red;">**登录/购买 即默认您已经完全阅读和接受本文条款和明白使用方法，不支持以任何存在于本文的问题退款**</mark>
 
 {% content-ref url="deng-lu-zhi-nan/sao-ma-deng-lu.md" %}
 [sao-ma-deng-lu.md](deng-lu-zhi-nan/sao-ma-deng-lu.md)
@@ -44,33 +44,37 @@
 _<mark style="color:red;">**登录协议默认为iPad登录，出现iPad登录的标志属于正常情况，如果需要使用iPad，可联系客服把协议换成手表协议**</mark>_
 {% endhint %}
 
-### 功能介绍
+### 菜单预览
+
+> －－－－－－－－－
+>
+> &#x20;[虹包功能](gong-neng-jie-shao/hong-bao-gong-neng.md)◆处理助手&#x20;
+>
+> 个人助手◇自助头衔&#x20;
+>
+> 监控设置◆自身撤回&#x20;
+>
+> 群管功能◇群发助手&#x20;
+>
+> 打卡功能◆清理潜水&#x20;
+>
+> 菜单设置◇艾特回复&#x20;
+>
+> 定时任务◆代理系统&#x20;
+>
+> 自动续火◇收米管家&#x20;
+>
+> 卡密系统◆问答系统&#x20;
+>
+> 消息备注◇秒赞秒评&#x20;
+>
+> 屏蔽功能◆账号控制&#x20;
+>
+> 点歌系统◇表情功能&#x20;
+>
+> －－－－－－－－－
 
 介绍大坏蛋个人助手的具体功能，买前先了解
-
-{% content-ref url="gong-neng-jie-shao/hong-bao-gong-neng.md" %}
-[hong-bao-gong-neng.md](gong-neng-jie-shao/hong-bao-gong-neng.md)
-{% endcontent-ref %}
-
-{% content-ref url="gong-neng-jie-shao/qun-fa-gong-neng.md" %}
-[qun-fa-gong-neng.md](gong-neng-jie-shao/qun-fa-gong-neng.md)
-{% endcontent-ref %}
-
-{% content-ref url="gong-neng-jie-shao/zi-zhu-tou-xian.md" %}
-[zi-zhu-tou-xian.md](gong-neng-jie-shao/zi-zhu-tou-xian.md)
-{% endcontent-ref %}
-
-{% content-ref url="gong-neng-jie-shao/chu-li-zhu-shou.md" %}
-[chu-li-zhu-shou.md](gong-neng-jie-shao/chu-li-zhu-shou.md)
-{% endcontent-ref %}
-
-{% content-ref url="gong-neng-jie-shao/miao-zan-miao-ping.md" %}
-[miao-zan-miao-ping.md](gong-neng-jie-shao/miao-zan-miao-ping.md)
-{% endcontent-ref %}
-
-{% content-ref url="gong-neng-jie-shao/xiao-xi-bei-zhu.md" %}
-[xiao-xi-bei-zhu.md](gong-neng-jie-shao/xiao-xi-bei-zhu.md)
-{% endcontent-ref %}
 
 {% hint style="info" %}
 <mark style="color:red;">**大坏蛋个人助手支持小号挂机，大号控制**</mark>
