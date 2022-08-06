@@ -1,10 +1,12 @@
 # 红包功能
 
-{% hint style="info" %}
+{% hint style="danger" %}
 **由于抢红包操作为敏感操作，频繁使用不可避免的会导致风控，甚至冻结，请谨慎使用或尽量使用小号**
 {% endhint %}
 
 <mark style="color:red;">**抢红包功能是默认关闭的哦，手动打开才会开启**</mark>
+
+<mark style="color:red;">**不想抢红包的群可以在【**</mark>[<mark style="color:blue;">**屏蔽功能**</mark>](ping-bi-gong-neng.md)<mark style="color:red;">**】里屏蔽哦**</mark>
 
 ## **功能开关**
 

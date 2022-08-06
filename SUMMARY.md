@@ -12,6 +12,7 @@
 ## 功能介绍
 
 * [红包功能](gong-neng-jie-shao/hong-bao-gong-neng.md)
+* [屏蔽功能](gong-neng-jie-shao/ping-bi-gong-neng.md)
 * [群发功能](gong-neng-jie-shao/qun-fa-gong-neng.md)
 * [自助头衔](gong-neng-jie-shao/zi-zhu-tou-xian.md)
 * [处理助手](gong-neng-jie-shao/chu-li-zhu-shou.md)
@@ -19,6 +20,7 @@
 * [消息备注](gong-neng-jie-shao/xiao-xi-bei-zhu.md)
 * [监控设置](gong-neng-jie-shao/jian-kong-she-zhi.md)
 * [个人助手](gong-neng-jie-shao/ge-ren-zhu-shou.md)
+* [打卡功能](gong-neng-jie-shao/da-ka-gong-neng.md)
 
 ## Use Cases
 

@@ -1,6 +1,6 @@
 # 群发功能
 
-{% hint style="info" %}
+{% hint style="danger" %}
 **群发与抢红包一样，作为敏感操作，频繁使用不可避免的会导致风控，甚至冻结，请谨慎使用或尽量使用小号**
 {% endhint %}
 
@@ -18,7 +18,7 @@
 
 定时群发就是自己定在某个时间段发送一条群发消息，<mark style="color:red;">**注意设置时间格式中的冒号“：”，需要用英文的冒号**</mark>
 
-![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (3) (2).png>)![](<../.gitbook/assets/image (14).png>)
 
 ## 循环群发
 
