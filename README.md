@@ -41,7 +41,7 @@
 {% endcontent-ref %}
 
 {% hint style="info" %}
-_<mark style="color:red;">登录协议默认为iPad登录，出现iPad登录的标志属于正常情况，如果需要使用iPad，可联系客服把协议换成手表协议</mark>_
+_<mark style="color:red;">**登录协议默认为iPad登录，出现iPad登录的标志属于正常情况，如果需要使用iPad，可联系客服把协议换成手表协议**</mark>_
 {% endhint %}
 
 ### 功能介绍

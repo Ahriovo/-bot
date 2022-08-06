@@ -8,13 +8,13 @@
 
 强大的自定义开关，想抢哪个抢哪个
 
-![](../.gitbook/assets/Screenshot\_2022-08-06-13-51-58-20\_9d26c6446fd7bb8.jpg)
+![](<../.gitbook/assets/image (5).png>)![](<../.gitbook/assets/image (21).png>)
 
 ## **抢包状态**
 
 查看目前抢红包开启的状态和情况，抢到金额等
 
-![](<../.gitbook/assets/Screenshot\_2022-08-06-13-38-43-44\_9d26c6446fd7bb8 (1).jpg>)
+![](<../.gitbook/assets/image (2).png>)![](<../.gitbook/assets/image (6).png>)
 
 
 
@@ -22,7 +22,7 @@
 
 模拟真人，可随机回复，延时回复，让人不知道你是秒抢，不会被踢，同时还有未抢到回复，更加真实
 
-![](../.gitbook/assets/Screenshot\_2022-08-06-13-41-21-88\_9d26c6446fd7bb8.jpg)
+![](<../.gitbook/assets/image (19).png>)![](<../.gitbook/assets/image (22).png>)
 
 ## 捡漏功能
 

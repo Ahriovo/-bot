@@ -4,10 +4,10 @@
 
 同样解放双手\~扩列时自动给人备注id，再也不会空间一刷全是网名惹，可以设置禁用词\~不用担心别人使用奇怪备注占你便宜
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (13).png>)
 
 ## 好友消息
 
 开启后自动发送消息打招呼\~不需要自己频繁手动发送啦
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (1).png>)

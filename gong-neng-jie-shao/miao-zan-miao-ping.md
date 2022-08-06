@@ -6,4 +6,4 @@
 
 ## **功能预览**
 
-****![](<../.gitbook/assets/image (4).png>)****
+****![](<../.gitbook/assets/image (17).png>)****

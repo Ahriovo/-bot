@@ -12,7 +12,7 @@
 
 **回收所有头衔需要时间，人越多时间越长，并非卡住，不要反复发送指令**
 
-<mark style="color:red;">****</mark>![](<../.gitbook/assets/image (10).png>)<mark style="color:red;">****</mark>
+<mark style="color:red;">****</mark>![](<../.gitbook/assets/image (12).png>)<mark style="color:red;">****</mark>![](<../.gitbook/assets/image (18).png>)<mark style="color:red;">****</mark>
 
 <mark style="color:red;">****</mark>
 
