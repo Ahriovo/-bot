@@ -8,7 +8,7 @@
 
 <mark style="color:red;">注意：本开关为分群开关，需要在对应的群里开启才能使用</mark>
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (3).png>)
 
 ### 精确问使用方法
 

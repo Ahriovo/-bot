@@ -31,6 +31,7 @@
 * [自身撤回](gong-neng-jie-shao/zi-shen-che-hui.md)
 * [代理系统](gong-neng-jie-shao/dai-li-xi-tong.md)
 * [自动续火](gong-neng-jie-shao/zi-dong-xu-huo.md)
+* [等待添加](gong-neng-jie-shao/deng-dai-tian-jia.md)
 
 ## Use Cases
 
