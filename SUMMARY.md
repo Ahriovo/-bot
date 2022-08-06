@@ -29,7 +29,8 @@
 * [账号控制](gong-neng-jie-shao/zhang-hao-kong-zhi.md)
 * [问答系统](gong-neng-jie-shao/wen-da-xi-tong.md)
 * [自身撤回](gong-neng-jie-shao/zi-shen-che-hui.md)
-* [Page 1](gong-neng-jie-shao/page-1.md)
+* [代理系统](gong-neng-jie-shao/dai-li-xi-tong.md)
+* [自动续火](gong-neng-jie-shao/zi-dong-xu-huo.md)
 
 ## Use Cases
 
