@@ -14,12 +14,14 @@
 ## 功能介绍
 
 * [红包功能](gong-neng-jie-shao/hong-bao-gong-neng.md)
-* [菜单设置](gong-neng-jie-shao/cai-dan-she-zhi.md)
-* [屏蔽功能](gong-neng-jie-shao/ping-bi-gong-neng.md)
+* [表情功能](gong-neng-jie-shao/biao-qing-gong-neng.md)
 * [群发功能](gong-neng-jie-shao/qun-fa-gong-neng.md)
+* [菜单设置](gong-neng-jie-shao/cai-dan-she-zhi.md)
 * [自助头衔](gong-neng-jie-shao/zi-zhu-tou-xian.md)
-* [处理助手](gong-neng-jie-shao/chu-li-zhu-shou.md)
 * [秒赞秒评](gong-neng-jie-shao/miao-zan-miao-ping.md)
+* [屏蔽功能](gong-neng-jie-shao/ping-bi-gong-neng.md)
+* [处理助手](gong-neng-jie-shao/chu-li-zhu-shou.md)
+* [问答系统](gong-neng-jie-shao/wen-da-xi-tong.md)
 * [消息备注](gong-neng-jie-shao/xiao-xi-bei-zhu.md)
 * [监控设置](gong-neng-jie-shao/jian-kong-she-zhi.md)
 * [个人助手](gong-neng-jie-shao/ge-ren-zhu-shou.md)
@@ -27,11 +29,9 @@
 * [群管功能](gong-neng-jie-shao/qun-guan-gong-neng.md)
 * [清理潜水](gong-neng-jie-shao/qing-li-qian-shui.md)
 * [账号控制](gong-neng-jie-shao/zhang-hao-kong-zhi.md)
-* [问答系统](gong-neng-jie-shao/wen-da-xi-tong.md)
 * [自身撤回](gong-neng-jie-shao/zi-shen-che-hui.md)
 * [代理系统](gong-neng-jie-shao/dai-li-xi-tong.md)
 * [自动续火](gong-neng-jie-shao/zi-dong-xu-huo.md)
-* [表情功能](gong-neng-jie-shao/biao-qing-gong-neng.md)
 * [等待添加](gong-neng-jie-shao/deng-dai-tian-jia.md)
 
 ## 使用案例
