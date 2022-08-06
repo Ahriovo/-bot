@@ -6,6 +6,8 @@
 
 * [扫码登录](deng-lu-zhi-nan/sao-ma-deng-lu.md)
 * [密码登录](deng-lu-zhi-nan/mi-ma-deng-lu.md)
+* [如何确定自己是否在线](deng-lu-zhi-nan/ru-he-que-ding-zi-ji-shi-fou-zai-xian.md)
+* [如何确定是否被屏蔽消息](deng-lu-zhi-nan/ru-he-que-ding-shi-fou-bei-ping-bi-xiao-xi.md)
 
 ## 功能介绍
 
