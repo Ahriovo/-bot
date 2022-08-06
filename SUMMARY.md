@@ -36,12 +36,5 @@
 
 ## 使用案例
 
-* [对于同人车车头](shi-yong-an-li/dui-yu-tong-ren-che-che-tou.md)
-* [For Engineers](shi-yong-an-li/for-engineers/README.md)
-  * [GitHub Integration](shi-yong-an-li/for-engineers/github-integration.md)
-* [For Support](shi-yong-an-li/for-support/README.md)
-  * [Intercom Integration](shi-yong-an-li/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [对于同人车车头](use-cases/for-designers/README.md)
+* [对于广告机/代发](shi-yong-an-li/dui-yu-guang-gao-ji-dai-fa.md)

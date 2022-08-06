@@ -6,11 +6,11 @@
 
 ## **功能预览**
 
-****![](<../.gitbook/assets/image (2).png>)****
+****![](<../.gitbook/assets/image (1).png>)****
 
 ## **表情指令预览**
 
-****![](<../.gitbook/assets/image (15).png>)****![](<../.gitbook/assets/image (4).png>)****![](<../.gitbook/assets/image (7).png>)****
+****![](<../.gitbook/assets/image (20).png>)****![](<../.gitbook/assets/image (6).png>)****![](<../.gitbook/assets/image (25).png>)****
 
 ## **使用预览**
 

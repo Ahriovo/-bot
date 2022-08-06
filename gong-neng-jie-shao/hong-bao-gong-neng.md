@@ -38,7 +38,7 @@
 
 抢到可以通知自己啦！担心被发现是秒抢的宝宝可以去方便的发送消息感谢了
 
-![](<../.gitbook/assets/image (2) (2).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 ## 发包系统
 
@@ -46,5 +46,5 @@
 
 <mark style="color:red;">**注意：红包阈值和支付密码请私聊自己设置**</mark>
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 

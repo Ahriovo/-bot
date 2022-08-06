@@ -12,5 +12,5 @@
 
 适合群发用户和抢红包等需要频繁敏感操作的用户，保护大号安全
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (4).png>)
 

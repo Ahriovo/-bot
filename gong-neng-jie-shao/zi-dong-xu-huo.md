@@ -8,5 +8,5 @@
 
 支持定时续火\~每天固定时间和你的小火花们不见不散
 
-![](<../.gitbook/assets/image (14).png>)
+![](../.gitbook/assets/image.png)
 
