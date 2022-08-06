@@ -6,7 +6,7 @@
 
 ### 功能预览
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (6).png>)
 
 
 

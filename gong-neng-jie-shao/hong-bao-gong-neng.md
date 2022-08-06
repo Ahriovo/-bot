@@ -12,13 +12,13 @@
 
 强大的自定义开关，想抢哪个抢哪个
 
-![](<../.gitbook/assets/image (5).png>)![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (5) (2).png>)![](<../.gitbook/assets/image (21).png>)
 
 ## **抢包状态**
 
 查看目前抢红包开启的状态和情况，抢到金额等
 
-![](<../.gitbook/assets/image (2) (1).png>)![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (2) (1).png>)![](<../.gitbook/assets/image (6) (2).png>)
 
 
 
