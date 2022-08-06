@@ -1,6 +1,7 @@
 # Table of contents
 
 * [什么是大坏蛋个人助手](README.md)
+* [目前价格](mu-qian-jia-ge.md)
 
 ## 登录指南
 
