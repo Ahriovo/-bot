@@ -6,7 +6,7 @@
 
 ## 功能预览
 
-![](<../.gitbook/assets/image (12) (2).png>)![](<../.gitbook/assets/image (4).png>)![](<../.gitbook/assets/image (1) (4).png>)
+![](<../.gitbook/assets/image (12) (2).png>)![](<../.gitbook/assets/image (4) (4).png>)![](<../.gitbook/assets/image (1) (4).png>)
 
 **今日统计里的数据仅为预览\~**
 

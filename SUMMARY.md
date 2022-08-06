@@ -26,6 +26,7 @@
 * [清理潜水](gong-neng-jie-shao/qing-li-qian-shui.md)
 * [账号控制](gong-neng-jie-shao/zhang-hao-kong-zhi.md)
 * [问答系统](gong-neng-jie-shao/wen-da-xi-tong.md)
+* [自身撤回](gong-neng-jie-shao/zi-shen-che-hui.md)
 
 ## Use Cases
 
