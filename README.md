@@ -2,9 +2,7 @@
 
 大坏蛋个人助手可以理解为一款拥有丰富功能的个人专属机器人
 
-### <mark style="color:red;">**本页仅为概括，点击左上角三条杠标志或**</mark>[<mark style="color:blue;">**点击此处**</mark>](broken-reference)<mark style="color:red;">**查看更多具体介绍**</mark>
-
-### <mark style="color:red;">**购买即默认您已经阅读和接受本网站所有条款和使用方法，不支持以任何存在于介绍中的问题退款，请仔细阅读，谨慎购买**</mark>
+### <mark style="color:red;">**本页仅为概括，点击左上角三条杠标志查看更多具体介绍**</mark>
 
 ## 我们能够做到的：
 
@@ -34,6 +32,8 @@
 
 ### 请确保完全按照步骤**操作**，登录指南上存在解决方案的一切问题，客服不予回复
 
+### <mark style="color:red;">**登录/购买 即默认您已经完全阅读和接受本文条款和明白使用方法，不支持以任何存在于本文的问题退款**</mark>
+
 {% content-ref url="deng-lu-zhi-nan/sao-ma-deng-lu.md" %}
 [sao-ma-deng-lu.md](deng-lu-zhi-nan/sao-ma-deng-lu.md)
 {% endcontent-ref %}
@@ -43,7 +43,7 @@
 {% endcontent-ref %}
 
 {% hint style="info" %}
-<mark style="color:red;">**登录协议默认为iPad登录，出现iPad登录的标志属于正常情况，如果需要使用iPad，可联系客服把协议换成手表协议【切换手表协议需要密码登录】**</mark>
+_<mark style="color:red;">**登录协议默认为iPad登录，出现iPad登录的标志属于正常情况，如果需要使用iPad，可联系客服把协议换成手表协议**</mark>_
 {% endhint %}
 
 ### 菜单预览
