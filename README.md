@@ -2,6 +2,8 @@
 
 大坏蛋个人助手可以理解为一款拥有丰富功能的个人专属机器人
 
+### <mark style="color:red;">**本页仅为概括，点击左上角三条杠标志查看更多具体介绍**</mark>
+
 ## 我们能够做到的：
 
 > 定时群发 循环群发 普通群发
@@ -70,10 +72,10 @@ _<mark style="color:red;">**登录协议默认为iPad登录，出现iPad登录�
 >
 > 点歌系统◇表情功能&#x20;
 
-### _<mark style="color:red;">**买前先了解，请点击左上角三条杠标志查看具体介绍**</mark>_
-
 {% hint style="info" %}
 <mark style="color:red;">**大坏蛋个人助手支持小号挂机，大号控制**</mark>
 
 <mark style="color:red;">**注意：大号控制是控制小号进行操作，不是小号挂了大号一样可以操作，必须小号和大号在共同群**</mark>
 {% endhint %}
+
+<mark style="color:red;">****</mark>
