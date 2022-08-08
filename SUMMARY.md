@@ -11,6 +11,7 @@
 * [如何确定自己是否在线](deng-lu-zhi-nan/ru-he-que-ding-zi-ji-shi-fou-zai-xian.md)
 * [如何确定是否被屏蔽消息](deng-lu-zhi-nan/ru-he-que-ding-shi-fou-bei-ping-bi-xiao-xi.md)
 * [一直发登录上线怎么办](deng-lu-zhi-nan/yi-zhi-fa-deng-lu-shang-xian-zen-mo-ban.md)
+* [群消息发不出去怎么办](deng-lu-zhi-nan/qun-xiao-xi-fa-bu-chu-qu-zen-mo-ban.md)
 
 ## 功能介绍
 
