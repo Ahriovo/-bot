@@ -18,7 +18,7 @@
 
 查看目前抢红包开启的状态和情况，抢到金额等
 
-![](<../.gitbook/assets/image (2) (1).png>)![](<../.gitbook/assets/image (6) (2).png>)
+![](<../.gitbook/assets/image (2) (1) (2).png>)![](<../.gitbook/assets/image (6) (2).png>)
 
 
 
@@ -38,7 +38,7 @@
 
 抢到可以通知自己啦！担心被发现是秒抢的宝宝可以去方便的发送消息感谢了
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ## 发包系统
 

@@ -6,15 +6,15 @@
 
 ## **功能预览**
 
-****![](<../.gitbook/assets/image (1).png>)****
+****![](../.gitbook/assets/image.png)****
 
 ## **表情指令预览**
 
-****![](<../.gitbook/assets/image (20).png>)****![](<../.gitbook/assets/image (6).png>)****![](<../.gitbook/assets/image (25).png>)****
+****![](<../.gitbook/assets/image (2).png>)****![](<../.gitbook/assets/image (9).png>)****
 
 ## **使用预览**
 
-****![](../.gitbook/assets/IMG20220806211110.jpg)****
+****![](../.gitbook/assets/}$RZ97K\(H@{QWD$\~0\`601Y6.png)****![](../.gitbook/assets/F1IPG7Z}{CNV984JM\~\~I\`\`P.png)****
 
 ****
 

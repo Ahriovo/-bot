@@ -6,7 +6,7 @@
 
 ## 功能预览
 
-![](<../.gitbook/assets/image (9).png>)![](<../.gitbook/assets/image (10) (3).png>)
+![](<../.gitbook/assets/image (9) (3).png>)![](<../.gitbook/assets/image (10) (3).png>)
 
 **本助手包含基础群管功能，懒人福音，轻松给头衔**
 
